@@ -45,6 +45,18 @@
         "Teleportation",
         "Interdimensional travel"
       ]
+    },
+    {
+      "name": "Fam",
+      "number": "005",
+      "type": "Wfire",
+      "powers": [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Water teleportation",
+        "Interdimensional ocean travel"
+      ]
     }
   ]
 }
